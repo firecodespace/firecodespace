@@ -7,7 +7,7 @@
 
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/firecodespace/firecodespace/main/assets/yb-high-resolution-logo-transparent.png" alt="Yash Banner" width="800px">
+  <img src="https://raw.githubusercontent.com/firecodespace/firecodespace/main/assets/yb-high-resolution-logo-transparent.png" alt="Yash Banner" width="70%">
 </div>
 
 <br/>
