@@ -42,7 +42,7 @@
 <div align="center">
   
   <h2 style="font-family: 'Space Grotesk', sans-serif; font-size: 36px; font-weight: 700; margin-bottom: 32px;">
-    🧰 Tech Toolbox
+    My Tech Stack
   </h2>
 
 </div>
