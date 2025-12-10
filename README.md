@@ -1,50 +1,31 @@
-<!-- 
-===========================================
-  YASH - AI ENGINEER & FOUNDER @ XARCH
-  GitHub Profile README
-===========================================
--->
-
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/firecodespace/firecodespace/main/assets/yb-high-resolution-logo-transparent.png" alt="Yash Banner" width="70%">
+  <img src="https://raw.githubusercontent.com/firecodespace/firecodespace/main/assets/yb-high-resolution-logo-transparent.png" alt="Yash Banner" width="60%">
 </div>
 
 <br/>
 
-<!-- HERO SECTION -->
 <div align="center">
   
-  <h1>
-    Hey there, I'm <span>Yash</span> 👋
-  </h1>
+  <h1>Hey there, I'm Yash 👋</h1>
   
-  <p>
-    💻 A passionate developer crafting intelligent solutions with <b>TypeScript</b>, <b>Python</b>, and <b>AI</b>
-  </p>
+  <p>💻 A passionate developer crafting intelligent solutions with <b>TypeScript</b>, <b>Python</b>, and <b>AI</b></p>
   
-  <p>
-    🔍 Building real-world, scalable, and impactful products
-  </p>
+  <p>🔍 Building real-world, scalable, and impactful products</p>
   
 </div>
 
-<br/><br/>
+<br/>
 
-<!-- SMOOTH WAVE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br/>
 
-<!-- TECH TOOLBOX SECTION -->
+<!-- TECH STACK -->
 <div align="center">
-  
-  <h2>
-    ⚡ My Tech Stack
-  </h2>
-
+  <h2>⚡ My Tech Stack</h2>
 </div>
 
 <br/>
@@ -146,20 +127,15 @@
 
 <br/><br/>
 
-<!-- SMOOTH WAVE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br/>
 
-<!-- FEATURED PROJECTS SECTION -->
+<!-- FEATURED PROJECTS -->
 <div align="center">
-  
-  <h2>
-    🚀 Featured Projects
-  </h2>
-
+  <h2>🚀 Featured Projects</h2>
 </div>
 
 <br/>
@@ -215,86 +191,87 @@
 
 <br/><br/>
 
-<!-- SMOOTH WAVE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br/>
 
-<!-- GITHUB STATS SECTION -->
+<!-- GITHUB STATS -->
 <div align="center">
-  
-  <h2>
-    📊 GitHub Analytics
-  </h2>
-
-<!-- Main Stats Row -->
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firecodespace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0059DC&icon_color=00D4FF&text_color=c9d1d9&ring_color=0059DC" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firecodespace&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0059DC&text_color=c9d1d9" alt="Top Languages"/>
-</p>
+  <h2>📊 GitHub Analytics</h2>
+</div>
 
 <br/>
 
-<!-- Streak Stats -->
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firecodespace&theme=tokyonight&hide_border=true&background=0d1117&stroke=0059DC&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=firecodespace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firecodespace&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+
+</div>
 
 <br/>
 
-<!-- Contribution Graph -->
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firecodespace&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0059DC&line=00D4FF&point=00D4FF" alt="Contribution Graph" width="90%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=firecodespace&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=1f6feb&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+</div>
 
 <br/>
 
-<!-- Additional Productive Stats -->
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firecodespace&theme=tokyonight" alt="Profile Summary" width="90%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=firecodespace&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph" width="90%" />
+
+</div>
 
 <br/>
 
-<p>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firecodespace&theme=tokyonight" alt="Productive Time"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firecodespace&theme=tokyonight" alt="Repos Per Language"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firecodespace&theme=tokyonight" alt="Profile Summary" width="90%" />
+
+</div>
 
 <br/>
 
-<p>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firecodespace&theme=tokyonight" alt="Most Commit Language"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firecodespace&theme=tokyonight" alt="Stats"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firecodespace&theme=tokyonight" alt="Productive Time"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firecodespace&theme=tokyonight" alt="Repos Per Language"/>
+
+</div>
 
 <br/>
 
-<!-- Trophies -->
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=firecodespace&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="90%" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firecodespace&theme=tokyonight" alt="Most Commit Language"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firecodespace&theme=tokyonight" alt="Stats"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=firecodespace&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="90%" />
 
 </div>
 
 <br/><br/>
 
-<!-- SMOOTH WAVE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br/>
 
-<!-- ABOUT ME SECTION -->
+<!-- ABOUT ME -->
 <div align="center">
-  
-  <h2>
-    💡 About Me
-  </h2>
-
+  <h2>💡 About Me</h2>
 </div>
 
 <br/>
@@ -346,19 +323,15 @@
 
 <br/><br/>
 
-<!-- SMOOTH WAVE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br/>
 
-<!-- CURRENT FOCUS SECTION -->
+<!-- CURRENT FOCUS -->
 <div align="center">
-  
-  <h2>
-    🔥 Currently Working On
-  </h2>
+  <h2>🔥 Currently Working On</h2>
   
   <br/>
   
@@ -381,55 +354,49 @@
 
 <br/><br/>
 
-<!-- SMOOTH WAVE DIVIDER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
 <br/>
 
-<!-- CONNECT SECTION -->
+<!-- CONNECT -->
 <div align="center">
-  
-  <h2>
-    🔗 Connect with Me
-  </h2>
+  <h2>🔗 Connect with Me</h2>
 
 <br/>
 
 <p>
   <a href="https://xarchlabs.com" target="_blank">
-    <img src="https://img.shields.io/badge/XarchLabs.com-0059DC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/XarchLabs.com-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0059DC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/firecodespace" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0059DC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0059DC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <br/>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0059DC&center=true&vCenter=true&width=600&lines=Engineering+is+my+canvas%2C+AI+is+my+brush;Building+the+future%2C+one+commit+at+a+time;Turning+ideas+into+intelligent+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Engineering+is+my+canvas%2C+AI+is+my+brush;Building+the+future%2C+one+commit+at+a+time;Turning+ideas+into+intelligent+solutions" alt="Typing SVG" />
 </p>
 
 </div>
 
 <br/>
 
-<!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
 
 <br/>
 
-<!-- VISITOR COUNTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=firecodespace&label=Profile%20Views&color=0059DC&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=firecodespace&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views" />
 </div>
