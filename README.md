@@ -1,468 +1,435 @@
-<div align="center">
+<!-- 
+===========================================
+  YASH - AI ENGINEER & FOUNDER @ XARCH
+  GitHub Profile README
+===========================================
+-->
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YASH%20BHATT&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/firecodespace/firecodespace/main/assets/yb-high-resolution-logo-transparent.png" alt="Yash Banner" width="70%">
+</div>
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=AI+Engineer+%26+Founder;Building+Intelligent+Solutions;Crafting+the+Future+with+Code" alt="Typing SVG" />
-</a>
+<!-- HERO SECTION -->
+<div align="center">
+  
+  <h1>
+    Hey there, I'm <span>Yash</span> 👋
+  </h1>
+  
+  <p>
+    💻 A passionate developer crafting intelligent solutions with <b>TypeScript</b>, <b>Python</b>, and <b>AI</b>
+  </p>
+  
+  <p>
+    🔍 Building real-world, scalable, and impactful products
+  </p>
+  
+</div>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES WITH HOVER EFFECT -->
-<p align="center">
-  <a href="https://xarchlabs.com">
-    <img src="https://img.shields.io/badge/🌐_Website-6366F1?style=for-the-badge&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/firecodespace">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<!-- SMOOTH WAVE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+
+<br/>
+
+<!-- TECH TOOLBOX SECTION -->
+<div align="center">
+  
+  <h2>
+    ⚡ My Tech Stack
+  </h2>
+
+</div>
+
+<br/>
+
+<table align="center" width="90%">
+<tr>
+<td align="center" width="50%">
+
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="24" height="24" alt="code icon"/>
+  Languages & Core
+</h3>
+
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&theme=dark&perline=6" alt="Languages" />
 </p>
 
-<br/>
+</td>
+<td align="center" width="50%">
 
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=firecodespace&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
-<br/><br/>
-
----
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" alt="frontend icon"/>
+  Frontend & UI
+</h3>
 
 <br/>
 
-<!-- ABOUT SECTION WITH GRADIENT -->
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,figma&theme=dark&perline=4" alt="Frontend" />
+</p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> **ABOUT ME**
+</td>
+</tr>
 
-</div>
-
-<br/>
-
-```typescript
-const yash = {
-    role: "AI Engineer & Founder @ Xarch Labs",
-    location: "Building the Future 🚀",
-    code: ["TypeScript", "Python", "C++", "JavaScript"],
-    focus: ["Artificial Intelligence", "Full-Stack Development", "System Architecture"],
-    passion: "Transforming ideas into intelligent, scalable solutions",
-    currentMission: "Building Nexus AI - Next-gen AI SaaS platform",
-    philosophy: "Ship fast, iterate faster, impact always"
-};
-```
-
-<br/>
-
-<!-- CURRENT FOCUS -->
-<div align="center">
-
-### 🎯 **CURRENT FOCUS**
-
-<table>
 <tr>
-<td align="center" width="33%">
+<td align="center">
 
-**🧠 NEXUS AI**  
-Multi-tenant AI SaaS with  
-adapter-based fine-tuning
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24" alt="backend icon"/>
+  Backend & APIs
+</h3>
+
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark&perline=4" alt="Backend" />
+</p>
 
 </td>
-<td align="center" width="33%">
+<td align="center">
 
-**🤖 LLM ADAPTERS**  
-Building personalized  
-on-device AI assistants
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24" alt="database icon"/>
+  Databases
+</h3>
+
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark&perline=4" alt="Databases" />
+</p>
 
 </td>
-<td align="center" width="33%">
+</tr>
 
-**📊 CONTENT SYSTEMS**  
-Robust platforms with  
-Supabase & Vercel
+<tr>
+<td align="center">
+
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" alt="devops icon"/>
+  DevOps & Infrastructure
+</h3>
+
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,linux,nginx,git&theme=dark&perline=5" alt="DevOps" />
+</p>
+
+</td>
+<td align="center">
+
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24" height="24" alt="ai icon"/>
+  AI & ML Tools
+</h3>
+
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,vscode,github&theme=dark&perline=4" alt="AI Tools" />
+</p>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/><br/>
 
----
-
-<br/>
-
-<!-- TECH STACK SECTION -->
+<!-- SMOOTH WAVE DIVIDER -->
 <div align="center">
-
-## ⚡ **TECH ARSENAL**
-
-<br/>
-
-### **Languages & Frameworks**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs,nodejs,fastapi,flask,express&theme=dark&perline=10" alt="Languages & Frameworks" />
-</p>
-
-<br/>
-
-### **AI/ML & Data Science**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=6" alt="AI/ML Tools" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
-
-<br/>
-
-### **Databases & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,docker,vercel,nginx,git,github,vscode&theme=dark&perline=10" alt="Databases & DevOps" />
-</p>
-
-<br/>
-
-### **Design & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,tailwind,html,css,linux&theme=dark&perline=6" alt="Design Tools" />
-</p>
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-<br/><br/>
-
----
-
 <br/>
 
-<!-- FEATURED PROJECTS -->
+<!-- FEATURED PROJECTS SECTION -->
 <div align="center">
-
-## 🚀 **FEATURED PROJECTS**
+  
+  <h2>
+    🚀 Featured Projects
+  </h2>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<table>
+<table align="center" width="90%">
+<thead>
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 [Nexus AI](https://github.com/YOUR_USERNAME/nexus-ai)
-
-**Multi-tenant AI SaaS platform**
-
-🔹 Adapter-based fine-tuning  
-🔹 On-device inference exploration  
-🔹 Scalable architecture
-
-`Python` `FastAPI` `Next.js` `PostgreSQL`
-
----
-
-### 🎮 [Gladiator Arena](https://github.com/YOUR_USERNAME/gladiator-arena)
-
-**On-chain combat game**
-
-🔹 Deterministic simulations  
-🔹 Verifiable action pipeline  
-🔹 Blockchain integration
-
-`C++` `SFML` `Blockchain`
-
----
-
-### 👁️ [KITTI Vision](https://github.com/YOUR_USERNAME/kitti-vision)
-
-**Computer vision pipeline**
-
-🔹 KITTI dataset processing  
-🔹 OpenCV CUDA acceleration  
-🔹 Real-time recognition
-
-`Python` `OpenCV` `CUDA`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [OmniDimension](https://github.com/YOUR_USERNAME/omnidimension)
-
-**Agentic backend system**
-
-🔹 Task graph orchestration  
-🔹 HTTP tools integration  
-🔹 FastAPI/Flask powered
-
-`Python` `FastAPI` `Flask`
-
----
-
-### 📝 [Next.js CMS](https://github.com/YOUR_USERNAME/nextjs-cms)
-
-**Full-stack content platform**
-
-🔹 Blogs, webinars, papers  
-🔹 Admin authentication  
-🔹 ISR routes
-
-`TypeScript` `Next.js` `Supabase`
-
----
-
-### 🦙 [Local LLaMA](https://github.com/YOUR_USERNAME/local-llama)
-
-**On-device LLM deployment**
-
-🔹 LLaMA-2 7B fine-tuning  
-🔹 Mobile connectivity  
-🔹 FastAPI backend
-
-`Python` `HuggingFace` `FastAPI`
-
-</td>
+<th width="25%">Project</th>
+<th width="45%">Description</th>
+<th width="30%">Stack</th>
 </tr>
+</thead>
+<tbody>
+
+<tr>
+<td><a href="https://github.com/YOUR_USERNAME/nexus-ai"><b>Nexus AI</b></a></td>
+<td>AI SaaS platform with multi-tenant architecture, adapter-based fine-tuning, and on-device inference exploration</td>
+<td><code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>PostgreSQL</code></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/YOUR_USERNAME/omnidimension"><b>OmniDimension</b></a></td>
+<td>Agentic backend with task graph orchestration and HTTP tools over FastAPI/Flask</td>
+<td><code>Python</code> <code>FastAPI</code> <code>Flask</code></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/YOUR_USERNAME/gladiator-arena"><b>Gladiator Arena</b></a></td>
+<td>On-chain combat game with deterministic simulations and verifiable actions pipeline</td>
+<td><code>C++</code> <code>SFML</code> <code>Blockchain</code></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/YOUR_USERNAME/nextjs-cms"><b>Next.js CMS</b></a></td>
+<td>Full-stack content platform with blogs, webinars, papers, admin authentication, and ISR routes</td>
+<td><code>TypeScript</code> <code>Next.js</code> <code>Supabase</code></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/YOUR_USERNAME/kitti-vision"><b>KITTI Vision</b></a></td>
+<td>Computer vision pipeline for image recognition with KITTI dataset processing and OpenCV CUDA</td>
+<td><code>Python</code> <code>OpenCV</code> <code>CUDA</code></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/YOUR_USERNAME/local-llama"><b>Local LLaMA</b></a></td>
+<td>On-device LLaMA-2 7B deployment with fine-tuning pipelines and mobile connectivity via FastAPI</td>
+<td><code>Python</code> <code>HuggingFace</code> <code>FastAPI</code></td>
+</tr>
+
+</tbody>
 </table>
 
-</div>
-
 <br/><br/>
 
----
-
-<br/>
-
-<!-- GITHUB STATS -->
+<!-- SMOOTH WAVE DIVIDER -->
 <div align="center">
-
-## 📊 **GITHUB ANALYTICS**
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
 <br/>
 
-<!-- Main Stats -->
+<!-- GITHUB STATS SECTION -->
+<div align="center">
+  
+  <h2>
+    📊 GitHub Analytics
+  </h2>
+
+<!-- Main Stats Row -->
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firecodespace&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=E0E7FF&ring_color=6366F1" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firecodespace&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E0E7FF" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firecodespace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0059DC&icon_color=00D4FF&text_color=c9d1d9&ring_color=0059DC" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firecodespace&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0059DC&text_color=c9d1d9" alt="Top Languages"/>
 </p>
 
 <br/>
 
 <!-- Streak Stats -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firecodespace&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firecodespace&theme=tokyonight&hide_border=true&background=0d1117&stroke=0059DC&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </p>
 
 <br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=firecodespace&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=818CF8&point=818CF8&area_color=818CF8&area=true&hide_border=true&title_color=E0E7FF" width="95%" alt="Contribution Graph"/>
+<!-- Contribution Graph -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firecodespace&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0059DC&line=00D4FF&point=00D4FF" alt="Contribution Graph" width="90%" />
+</p>
 
-<br/><br/>
+<br/>
+
+<!-- Additional Productive Stats -->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firecodespace&theme=tokyonight" alt="Profile Summary" width="90%" />
+</p>
+
+<br/>
+
+<p>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firecodespace&theme=tokyonight" alt="Productive Time"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firecodespace&theme=tokyonight" alt="Repos Per Language"/>
+</p>
+
+<br/>
+
+<p>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firecodespace&theme=tokyonight" alt="Most Commit Language"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=firecodespace&theme=tokyonight" alt="Stats"/>
+</p>
+
+<br/>
 
 <!-- Trophies -->
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=firecodespace&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=firecodespace&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="90%" />
 </p>
 
 </div>
 
 <br/><br/>
 
----
-
-<br/>
-
-<!-- SKILLS BREAKDOWN -->
+<!-- SMOOTH WAVE DIVIDER -->
 <div align="center">
-
-## 💡 **EXPERTISE BREAKDOWN**
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
 <br/>
 
-<table width="90%">
+<!-- ABOUT ME SECTION -->
+<div align="center">
+  
+  <h2>
+    💡 About Me
+  </h2>
+
+</div>
+
+<br/>
+
+<table align="center" width="90%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 **CORE STRENGTHS**
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="strengths icon"/>
+  Strengths
+</h3>
 
 <br/>
 
-```yaml
-AI & Machine Learning:
-  - LLM fine-tuning & deployment
-  - Computer vision pipelines
-  - On-device inference optimization
-  - Model adaptation strategies
+**Python Development** — FastAPI, Flask, data pipelines, ML workflows
 
-Backend Engineering:
-  - FastAPI & Flask architectures
-  - RESTful API design
-  - Async & concurrent systems
-  - Multi-tenant platforms
+**Artificial Intelligence & Machine Learning** — LLaMA fine-tuning, computer vision, on-device inference
 
-Full-Stack Development:
-  - Next.js & React ecosystems
-  - TypeScript expertise
-  - Server-side rendering
-  - Real-time applications
-```
+**Full-stack Web Development** — Next.js, React, TypeScript, Supabase, Vercel
+
+**Scalable API Design** — RESTful architectures, async backends, multi-tenant systems
+
+**Databases** — PostgreSQL, MongoDB, Redis, Supabase
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 **ENGINEERING PHILOSOPHY**
+<h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="mindset icon"/>
+  Mindset
+</h3>
 
 <br/>
 
-```yaml
-Build for Impact:
-  ✓ Production-ready over perfection
-  ✓ Scalability from day one
-  ✓ Real-world problem solving
-  
-Ship Fast, Iterate Faster:
-  ✓ Rapid prototyping
-  ✓ Continuous deployment
-  ✓ Data-driven decisions
-  
-Founder Mindset:
-  ✓ Product thinking
-  ✓ User-centric design
-  ✓ Business value alignment
-  
-Excellence in Execution:
-  ✓ Clean, maintainable code
-  ✓ Robust architecture
-  ✓ Attention to detail
-```
+**Solve Real-World Problems** — Practical solutions over theoretical exercises
+
+**Ship Impactful Projects** — Production-ready systems that scale
+
+**Keep Learning, Keep Building** — Continuous improvement and exploration
+
+**Engineering Excellence** — Clean code, robust architecture, attention to detail
+
+**Founder Mentality** — Building products that solve real problems
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/><br/>
 
----
-
-<br/>
-
-<!-- LEARNING & GROWTH -->
+<!-- SMOOTH WAVE DIVIDER -->
 <div align="center">
-
-## 📚 **CONTINUOUS LEARNING**
-
-<br/>
-
-```mermaid
-graph LR
-    A[Current Focus] --> B[Mathematics]
-    A --> C[AI Research]
-    A --> D[System Design]
-    B --> E[Real Analysis]
-    B --> F[Linear Algebra]
-    C --> G[LLM Architectures]
-    C --> H[Computer Vision]
-    D --> I[Distributed Systems]
-    D --> J[Cloud Architecture]
-    
-    style A fill:#6366F1,stroke:#818CF8,stroke-width:3px,color:#fff
-    style B fill:#8B5CF6,stroke:#A78BFA,stroke-width:2px,color:#fff
-    style C fill:#8B5CF6,stroke:#A78BFA,stroke-width:2px,color:#fff
-    style D fill:#8B5CF6,stroke:#A78BFA,stroke-width:2px,color:#fff
-```
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-<br/><br/>
-
----
-
 <br/>
 
-<!-- RECENT ACTIVITY -->
+<!-- CURRENT FOCUS SECTION -->
 <div align="center">
-
-## ⚡ **RECENT ACTIVITY**
-
-<br/>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+  
+  <h2>
+    🔥 Currently Working On
+  </h2>
+  
+  <br/>
+  
+  <table align="center" width="80%">
+  <tr>
+  <td>
+  
+  ```yaml
+  🧠 Nexus AI: Refining product architecture at Xarch Labs
+  🤖 LLM Adapters: Building local adapters for personalized AI assistants  
+  📊 Content Systems: Developing robust platforms with Supabase and Vercel
+  🎓 Mathematics: Deepening knowledge in Real Analysis, Linear Algebra, and Computer Vision
+  ```
+  
+  </td>
+  </tr>
+  </table>
 
 </div>
 
 <br/><br/>
 
----
+<!-- SMOOTH WAVE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
 <br/>
 
-<!-- CONTACT & FOOTER -->
+<!-- CONNECT SECTION -->
 <div align="center">
-
-## 🤝 **LET'S CONNECT**
+  
+  <h2>
+    🔗 Connect with Me
+  </h2>
 
 <br/>
 
 <p>
-  <a href="https://xarchlabs.com">
-    <img src="https://img.shields.io/badge/🌐_XarchLabs.com-6366F1?style=for-the-badge&logoColor=white" alt="Website"/>
+  <a href="https://xarchlabs.com" target="_blank">
+    <img src="https://img.shields.io/badge/XarchLabs.com-0059DC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0059DC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/firecodespace">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/firecodespace" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0059DC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0059DC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <br/>
 
-### 💬 **Open to:**
-
-`Collaboration` • `Consulting` • `Open Source` • `Tech Discussions` • `Startup Opportunities`
-
-<br/>
-
----
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together+🚀;The+future+is+intelligent+🤖" alt="Footer Typing SVG" />
-
-<br/>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0059DC&center=true&vCenter=true&width=600&lines=Engineering+is+my+canvas%2C+AI+is+my+brush;Building+the+future%2C+one+commit+at+a+time;Turning+ideas+into+intelligent+solutions" alt="Typing SVG" />
+</p>
 
 </div>
 
+<br/>
+
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
----
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
 
-**⭐ Star my repos if you find them interesting! ⭐**
+<br/>
 
+<!-- VISITOR COUNTER -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=firecodespace&label=Profile%20Views&color=0059DC&style=for-the-badge" alt="Profile Views" />
 </div>
