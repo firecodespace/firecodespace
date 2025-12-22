@@ -200,7 +200,7 @@
 <!-- GITHUB STATS -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-  <img src="https://hackerrank-badges.vercel.app/yashbendresh2266" width="100%">
+  <img src="https://hackerrank-badges.vercel.app/yashbendresh2266">
 </div>
 
 <br/>
